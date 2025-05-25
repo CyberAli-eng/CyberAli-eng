@@ -1,16 +1,16 @@
-## Hi there 👋
+# 👋 Hi, I’m Ali Khusroo Bin Sabir
+Founder of 🚀 CyberAli — Building full-stack systems with Python + Django
 
-<!--
-**CyberAli-eng/CyberAli-eng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🔧 Skills
+- 💻 Full Stack Web Development (Django, HTML, CSS, JS)
+- 🔐 Cybersecurity (CCNA, CEH)
+- 📊 Data Visualization
+- 🧠 AI/ML (Basics)
 
-Here are some ideas to get you started:
+## 🌱 I’m currently open to job roles as:
+`Full Stack Developer | Python Developer | Django Intern | Cybersecurity Analyst`
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Connect With Me
+- 📧 Email: alisabir97570@gmail.com
+- 🔗 [LinkedIn](https://www.linkedin.com/in/ali-khusroo-bin-sabir)
+- 🌍 [GitHub](https://github.com/CyberAli-eng)
