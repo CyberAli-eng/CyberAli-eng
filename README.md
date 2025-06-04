@@ -12,13 +12,6 @@
 - 🎯 Cybersecurity Enthusiast (Interned at DIGITAL YODHA, CodeVirus Security)
 - 🛠️ Tools: Git, Bootstrap, SQLite, ReportLab, Tailwind, Postman
 - 👨‍💻 Currently developing advanced AI-based productivity tools
-
----
-
-## 🌟 Featured Projects
-### [CyberAli Hotel Management System](https://github.com/CyberAli-eng/CyberAli-Hotel-Management-System)
-> Django-based hotel automation system with secure login, food ordering, billing and dashboard reporting
-
 ---
 
 ## 📫 Connect with Me
