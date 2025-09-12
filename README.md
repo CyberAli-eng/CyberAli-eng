@@ -1,5 +1,6 @@
 # 👋 Hi, I’m Ali Khusroo Bin Sabir
-🚀 Founder & Developer at **CyberAli-eng**
+🚀 Founder **CyberAli-eng**
+👨‍💻 Developer at LambdaTest
   
 🔭 I’m passionate about building secure and scalable full stack applications using **Python & Django**.  
 🎓 B.Tech in Computer Science – Graduated 2025  
