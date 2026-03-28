@@ -38,8 +38,8 @@
 ## 🐍 Snake Game Contribution Graph
 <!-- This animated snake "eats" your contributions – requires GitHub Action to generate SVG -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CyberAli-eng/CyberAli-eng/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CyberAli-eng/CyberAli-eng/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CyberAli-eng/CyberAli-eng/output/dist/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CyberAli-eng/CyberAli-eng/output/dist/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/CyberAli-eng/CyberAli-eng/output/github-snake.svg" />
 </picture>
 
