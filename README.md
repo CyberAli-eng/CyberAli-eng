@@ -66,11 +66,10 @@
 </p>
 
 ---
-
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=CyberAli-eng&theme=radical&no-frame=true&no-bg=true&margin-w=4" />
+  <img src="https://github-profile-trophy.vercel.app/?username=CyberAli-eng&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="CyberAli-eng GitHub Trophies" />
 </p>
 
 ---
