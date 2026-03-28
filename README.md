@@ -48,12 +48,12 @@
 ## 📊 GitHub Analytics & Pie Charts
 
 | GitHub Stats | Top Languages (Pie) |
-| --- | --- |
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=CyberAli-eng&show_icons=true&theme=radical&bg_color=0D1117&hide_border=true&count_private=true&include_all_commits=true" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CyberAli-eng&layout=pie&theme=radical&bg_color=0D1117&hide_border=true" /> |
+| :---: | :---: |
+| <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=CyberAli-eng&show_icons=true&theme=radical&bg_color=0D1117&hide_border=true&count_private=true" width="100%" /> | <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=CyberAli-eng&layout=pie&theme=radical&bg_color=0D1117&hide_border=true" width="100%" /> |
 
 | Contribution Streak | Activity Graph |
-| --- | --- |
-| <img align="center" src="https://streak-stats.demolab.com?user=CyberAli-eng&theme=radical&hide_border=true&background=0D1117" /> | <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=CyberAli-eng&theme=github-compact&bg_color=0D1117&hide_border=true&color=79ff97&line=79ff97&point=ff6e6e" /> |
+| :---: | :---: |
+| <img src="https://streak-stats.demolab.com?user=CyberAli-eng&theme=radical&hide_border=true&background=0D1117" width="100%" /> | <img src="https://github-readme-activity-graph.vercel.app/graph?username=CyberAli-eng&theme=github-compact&bg_color=0D1117&hide_border=true&color=79ff97&line=79ff97&point=ff6e6e" width="100%" /> |
 
 ---
 
