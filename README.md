@@ -78,24 +78,3 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=CyberAli-eng&label=Profile%20Views&color=0e75b6&style=flat" alt="CyberAli-eng" />
 </p>
-
----
-
-<!-- 
-  🔧 Note: The snake game contribution grid requires a GitHub Action to generate the SVG. 
-  If you haven't set it up, follow: https://github.com/Platane/snk 
-  The pie chart uses layout=pie (supported by github-readme-stats).
--->
-
-<!-- 
-  🚀 High Performance: All images are served from reliable CDNs (vercel, raw.githubusercontent).
-  Animations: Typing SVG, Snake Grid, and Activity Graph are all dynamic/visual.
-  Customize any part by editing the URLs or replacing with your own data.
--->
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=CyberAli-eng&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=CyberAli-eng&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
