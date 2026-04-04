@@ -65,13 +65,6 @@
   
 </p>
 
----
-## 🏆 GitHub Trophies
-
-[![Trophies](https://github-profile-trophy-rho-seven.vercel.app/?username=CyberAli-eng&theme=radical&no-bg=true&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
-
----
-
 ## ✍️ Random Dev Quote
 
 <p align="center">
@@ -83,7 +76,7 @@
 ## 👁️ Profile Views
 
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=CyberAli-eng&icon=5&color=12" />
+  <img src="https://komarev.com/ghpvc/?username=CyberAli-eng&label=Profile%20Views&color=0e75b6&style=flat" alt="CyberAli-eng" />
 </p>
 
 ---
