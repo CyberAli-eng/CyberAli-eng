@@ -68,7 +68,7 @@
 ---
 ## 🏆 GitHub Trophies
 
-[![Trophies](https://github-profile-trophy-rho-seven.vercel.app/?username=CyberAli-eng&theme=radical&no-frame=true&no-bg=true&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
+[![Trophies](https://github-profile-trophy-rho-seven.vercel.app/?username=CyberAli-eng&theme=radical&no-bg=true&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
