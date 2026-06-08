@@ -8,8 +8,7 @@
 <!-- ANIMATED TYPING HEADER -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=00FF00&background=000000&center=true&vCenter=true&width=1000&lines=Hi%2C+I'm+Ali+Khusroo+Bin+Sabir;AI+Engineer;Generative+AI+Developer;Python+Full+Stack+Developer;Cybersecurity+Enthusiast;Building+AI+Applications,+RAG+Systems;AI+Agents+and+Intelligent+Automation+Platforms,
-" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=00FF00&background=000000&center=true&vCenter=true&width=1000&lines=Hi%2C+I'm+Ali+Khusroo+Bin+Sabir;AI+Engineer;Generative+AI+Developer;Python+Full+Stack+Developer;Cybersecurity+Enthusiast;Building+AI+Applications,+RAG+Systems;AI+Agents+and+Intelligent+Automation+Platforms;" alt="Typing SVG" />
   </a>
 </p>
 
