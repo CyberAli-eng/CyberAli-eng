@@ -63,7 +63,7 @@
 
 | Contribution Streak | Activity Graph |
 | :---: | :---: |
-| <img src="https://streak-stats.demolab.com?user=CyberAli-eng&theme=radical&hide_border=true&background=0D1117" width="100%" /> | <img src="https://github-readme-activity-graph.vercel.app/graph?username=CyberAli-eng&theme=github-compact&bg_color=0D1117&hide_border=true&color=79ff97&line=79ff97&point=ff6e6e" width="100%" /> |
+| <img src="https://github-readme-activity-graph.vercel.app/graph?username=CyberAli-eng&theme=github-compact&bg_color=0D1117&hide_border=true&color=79ff97&line=79ff97&point=ff6e6e" width="100%" /> |
 
 ---
 
