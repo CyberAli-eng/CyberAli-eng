@@ -58,11 +58,8 @@
 
 ---
 
-## 📊 GitHub Analytics & Pie Charts
+## 📊 GitHub Analytics
 
-| GitHub Stats | Top Languages (Pie) |
-| :---: | :---: |
-| <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=CyberAli-eng&show_icons=true&theme=radical&bg_color=0D1117&hide_border=true&count_private=true" width="100%" /> | <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=CyberAli-eng&layout=pie&theme=radical&bg_color=0D1117&hide_border=true" width="100%" /> |
 
 | Contribution Streak | Activity Graph |
 | :---: | :---: |
