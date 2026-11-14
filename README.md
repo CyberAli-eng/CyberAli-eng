@@ -36,6 +36,59 @@
 - Intelligent Automation Platforms
 ---
 
+## 🏢 Organizations
+
+<table>
+  <tr>
+    <td align="center" width="120"><a href="https://revgeniq.co.in"><img src="assets/orgs/revgeniq.png" height="56" alt="RevGenIQ logo" /></a></td>
+    <td>
+      <b><a href="https://revgeniq.co.in">RevGenIQ</a></b> · Software Engineer · Oct 2026 – Present<br/>
+      AI-powered B2B prospecting, lead generation and revenue intelligence.<br/>
+      <sub>🔒 RevGen B2Bos (prospecting &amp; revenue intelligence platform) · 🔒 <a href="https://revgenagents.vercel.app">RevGenAgents</a> · 🔒 Company website &amp; stack</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://lacleodigital.com"><img src="assets/orgs/lacleo-digital.png" height="40" alt="LaCleo Digital logo" /></a></td>
+    <td>
+      <b><a href="https://lacleodigital.com">LaCleo Digital</a></b> · Python Full Stack Developer · Jun 2025 – Mar 2026<br/>
+      B2B lead generation and digital marketing agency.<br/>
+      <sub>🔒 LaCleo.ai platform · 🔒 Lead Intel (AI lead search) · 🔒 LaCleoOmnia (multi-channel order management) · 🔒 Shopify → Snov.io automation · 🔒 Company website</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><img src="assets/orgs/aircune.png" height="48" alt="Aircune logo" /></td>
+    <td>
+      <b>Aircune</b> · Software development agency<br/>
+      <sub>🔒 aircune.com: Next.js 16 site with a server-side enquiry pipeline</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><img src="assets/orgs/gowigro.svg" height="52" alt="Gowigro logo" /></td>
+    <td>
+      <b>Gowigro</b><br/>
+      <sub>🔒 Gowigro website (Next.js) · <a href="https://github.com/CyberAli-eng/gowigro-gym-template">Gym website template</a> (<a href="https://cyberali-eng.github.io/gowigro-gym-template/">live demo</a>)</sub>
+    </td>
+  </tr>
+</table>
+
+<sub>🔒 = private organization repository</sub>
+
+---
+
+## ⭐ Featured Projects
+
+| Project | What it is | Live |
+| --- | --- | --- |
+| [enterprise-rag-engine](https://github.com/CyberAli-eng/enterprise-rag-engine) | Secure multi-tenant RAG service: per-tenant isolation, pluggable vector stores and LLMs (FastAPI, LangChain) | – |
+| [WorkRobo.ai](https://github.com/CyberAli-eng/WorkRobo.ai) | Automation platform: visual workflows, web scraping, Gemini analysis, real-time WebSockets | – |
+| [Qinterview.ai](https://github.com/CyberAli-eng/Qinterview.ai) | AI mock-interview SaaS (React, Node.js, MongoDB, Gemini) | [Open](https://qinterview-ai.vercel.app) |
+| [noise-guard](https://github.com/CyberAli-eng/noise-guard) | Real-time network intrusion monitor (Django, Scapy) | – |
+| [the-derma-house](https://github.com/CyberAli-eng/the-derma-house) | 62-page static clinic website (Astro) | [Open](https://cyberali-eng.github.io/the-derma-house/) |
+| [gowigro-gym-template](https://github.com/CyberAli-eng/gowigro-gym-template) | Gym website template (React, Vite, Tailwind) | [Open](https://cyberali-eng.github.io/gowigro-gym-template/) |
+| [BOL7_Task_0](https://github.com/CyberAli-eng/BOL7_Task_0) | Django REST + React JWT auth with OTP verification | [Open](https://bol-7-task-0.vercel.app) |
+
+---
+
 ## 🐍 Snake Game Contribution Graph
 <!-- This animated snake "eats" your contributions – requires GitHub Action to generate SVG -->
 <picture>
