@@ -76,7 +76,7 @@
     <td>
       <b><a href="https://www.gowigro.com">Gowigro</a></b> · Founder · Director &amp; Technical Officer<br/>
       My own company: websites and templates for businesses.<br/>
-      <sub>🔒 Gowigro website (Next.js) · <a href="https://github.com/CyberAli-eng/gowigro-gym-template">Gym template</a> (<a href="https://cyberali-eng.github.io/gowigro-gym-template/">live</a>) · <a href="https://github.com/CyberAli-eng/gowigro-clinic-template">Clinic template</a> (<a href="https://cyberali-eng.github.io/gowigro-clinic-template/">live</a>)</sub>
+      <sub>🔒 Gowigro website (Next.js) · <a href="https://github.com/gowigr0/gowigro-gym-template">Gym template</a> (<a href="https://gowigr0.github.io/gowigro-gym-template/">live</a>) · <a href="https://github.com/gowigr0/gowigro-clinic-template">Clinic template</a> (<a href="https://gowigr0.github.io/gowigro-clinic-template/">live</a>)</sub>
     </td>
   </tr>
 </table>
@@ -93,8 +93,8 @@
 | [WorkRobo.ai](https://github.com/CyberAli-eng/WorkRobo.ai) | Automation platform: visual workflows, web scraping, Gemini analysis, real-time WebSockets | – |
 | [Qinterview.ai](https://github.com/CyberAli-eng/Qinterview.ai) | AI mock-interview SaaS (React, Node.js, MongoDB, Gemini) | [Open](https://qinterview-ai.vercel.app) |
 | [noise-guard](https://github.com/CyberAli-eng/noise-guard) | Real-time network intrusion monitor (Django, Scapy) | – |
-| [gowigro-clinic-template](https://github.com/CyberAli-eng/gowigro-clinic-template) | Clinic website template: 62-page static Astro site | [Open](https://cyberali-eng.github.io/gowigro-clinic-template/) |
-| [gowigro-gym-template](https://github.com/CyberAli-eng/gowigro-gym-template) | Gym website template (React, Vite, Tailwind) | [Open](https://cyberali-eng.github.io/gowigro-gym-template/) |
+| [gowigro-clinic-template](https://github.com/gowigr0/gowigro-clinic-template) | Clinic website template: 62-page static Astro site | [Open](https://gowigr0.github.io/gowigro-clinic-template/) |
+| [gowigro-gym-template](https://github.com/gowigr0/gowigro-gym-template) | Gym website template (React, Vite, Tailwind) | [Open](https://gowigr0.github.io/gowigro-gym-template/) |
 | [BOL7_Task_0](https://github.com/CyberAli-eng/BOL7_Task_0) | Django REST + React JWT auth with OTP verification | [Open](https://bol-7-task-0.vercel.app) |
 
 ---
