@@ -22,6 +22,14 @@
   <a href="https://www.instagram.com/ali_k_b_sabir"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 </p>
 
+<!-- ORGANIZATIONS -->
+<p align="center">
+  <a href="https://revgeniq.co.in"><img src="assets/badges/revgeniq.svg" alt="RevGenIQ" /></a>
+  <a href="https://lacleodigital.com"><img src="assets/badges/lacleo-digital.svg" alt="LaCleo Digital" /></a>
+  <a href="https://github.com/aircune"><img src="assets/badges/aircune.svg" alt="Aircune" /></a>
+  <a href="https://www.gowigro.com"><img src="assets/badges/gowigro.svg" alt="Gowigro" /></a>
+</p>
+
 ---
 
 ## 💫 About Me
@@ -40,7 +48,7 @@
 
 <table>
   <tr>
-    <td align="center" width="120"><a href="https://revgeniq.co.in"><img src="assets/orgs/revgeniq.png" height="56" alt="RevGenIQ logo" /></a></td>
+    <td align="center" width="120"><a href="https://revgeniq.co.in"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CyberAli-eng/CyberAli-eng/main/assets/orgs/revgeniq.png" /><img src="https://raw.githubusercontent.com/CyberAli-eng/CyberAli-eng/main/assets/orgs/revgeniq-dark.svg" height="56" alt="RevGenIQ logo" /></picture></a></td>
     <td>
       <b><a href="https://revgeniq.co.in">RevGenIQ</a></b> · Software Engineer · Oct 2026 – Present<br/>
       AI-powered B2B prospecting, lead generation and revenue intelligence.<br/>
@@ -48,7 +56,7 @@
     </td>
   </tr>
   <tr>
-    <td align="center"><a href="https://lacleodigital.com"><img src="assets/orgs/lacleo-digital.png" height="40" alt="LaCleo Digital logo" /></a></td>
+    <td align="center"><a href="https://lacleodigital.com"><img src="assets/orgs/lacleo-digital-icon.png" height="48" alt="LaCleo Digital logo" /></a></td>
     <td>
       <b><a href="https://lacleodigital.com">LaCleo Digital</a></b> · Python Full Stack Developer · Jun 2025 – Mar 2026<br/>
       B2B lead generation and digital marketing agency.<br/>
@@ -58,15 +66,17 @@
   <tr>
     <td align="center"><img src="assets/orgs/aircune.png" height="48" alt="Aircune logo" /></td>
     <td>
-      <b>Aircune</b> · Software development agency<br/>
+      <b><a href="https://github.com/aircune">Aircune</a></b> · Founding Member &amp; Software Engineer<br/>
+      Software development agency.<br/>
       <sub>🔒 aircune.com: Next.js 16 site with a server-side enquiry pipeline</sub>
     </td>
   </tr>
   <tr>
     <td align="center"><img src="assets/orgs/gowigro.svg" height="52" alt="Gowigro logo" /></td>
     <td>
-      <b>Gowigro</b><br/>
-      <sub>🔒 Gowigro website (Next.js) · <a href="https://github.com/CyberAli-eng/gowigro-gym-template">Gym website template</a> (<a href="https://cyberali-eng.github.io/gowigro-gym-template/">live demo</a>)</sub>
+      <b><a href="https://www.gowigro.com">Gowigro</a></b> · Founder · Director &amp; Technical Officer<br/>
+      My own company: websites and templates for businesses.<br/>
+      <sub>🔒 Gowigro website (Next.js) · <a href="https://github.com/CyberAli-eng/gowigro-gym-template">Gym template</a> (<a href="https://cyberali-eng.github.io/gowigro-gym-template/">live</a>) · <a href="https://github.com/CyberAli-eng/gowigro-clinic-template">Clinic template</a> (<a href="https://cyberali-eng.github.io/gowigro-clinic-template/">live</a>)</sub>
     </td>
   </tr>
 </table>
@@ -83,7 +93,7 @@
 | [WorkRobo.ai](https://github.com/CyberAli-eng/WorkRobo.ai) | Automation platform: visual workflows, web scraping, Gemini analysis, real-time WebSockets | – |
 | [Qinterview.ai](https://github.com/CyberAli-eng/Qinterview.ai) | AI mock-interview SaaS (React, Node.js, MongoDB, Gemini) | [Open](https://qinterview-ai.vercel.app) |
 | [noise-guard](https://github.com/CyberAli-eng/noise-guard) | Real-time network intrusion monitor (Django, Scapy) | – |
-| [the-derma-house](https://github.com/CyberAli-eng/the-derma-house) | 62-page static clinic website (Astro) | [Open](https://cyberali-eng.github.io/the-derma-house/) |
+| [gowigro-clinic-template](https://github.com/CyberAli-eng/gowigro-clinic-template) | Clinic website template: 62-page static Astro site | [Open](https://cyberali-eng.github.io/gowigro-clinic-template/) |
 | [gowigro-gym-template](https://github.com/CyberAli-eng/gowigro-gym-template) | Gym website template (React, Vite, Tailwind) | [Open](https://cyberali-eng.github.io/gowigro-gym-template/) |
 | [BOL7_Task_0](https://github.com/CyberAli-eng/BOL7_Task_0) | Django REST + React JWT auth with OTP verification | [Open](https://bol-7-task-0.vercel.app) |
 
@@ -101,10 +111,17 @@
 
 ## 📊 GitHub Analytics
 
-
-| Contribution Streak | Activity Graph |
-| :---: | :---: |
-| <img src="https://github-readme-activity-graph.vercel.app/graph?username=CyberAli-eng&theme=github-compact&bg_color=0D1117&hide_border=true&color=79ff97&line=79ff97&point=ff6e6e" width="100%" /> |
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CyberAli-eng&theme=github_dark" width="100%" alt="Profile details" />
+</p>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=CyberAli-eng&theme=github_dark" height="165" alt="GitHub stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=CyberAli-eng&theme=github_dark" height="165" alt="Repos per language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=CyberAli-eng&theme=github_dark" height="165" alt="Most commit language" />
+</p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=CyberAli-eng&theme=github-dark-blue&hide_border=true" alt="GitHub streak" />
+</p>
 
 ---
 
