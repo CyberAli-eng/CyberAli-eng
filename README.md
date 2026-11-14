@@ -85,22 +85,6 @@
 
 ---
 
-## 🤝 Collaborations
-
-<table align="center">
-  <tr>
-    <td align="center" width="110"><a href="https://github.com/RevGenIQ"><img src="https://github.com/RevGenIQ.png?size=96" width="56" alt="RevGenIQ" /><br/><sub><b>RevGenIQ</b></sub></a><br/><sub>company</sub></td>
-    <td align="center" width="110"><a href="https://github.com/aircune"><img src="https://github.com/aircune.png?size=96" width="56" alt="Aircune" /><br/><sub><b>Aircune</b></sub></a><br/><sub>organization</sub></td>
-    <td align="center" width="110"><a href="https://github.com/gowigro"><img src="https://github.com/gowigro.png?size=96" width="56" alt="Gowigro" /><br/><sub><b>Gowigro</b></sub></a><br/><sub>my company</sub></td>
-    <td align="center" width="110"><a href="https://github.com/akashve7655-dot"><img src="https://github.com/akashve7655-dot.png?size=96" width="56" alt="akashve7655-dot" /><br/><sub><b>akashve7655-dot</b></sub></a><br/><sub>VIP Ledger</sub></td>
-    <td align="center" width="110"><a href="https://github.com/Anjaliraghav654"><img src="https://github.com/Anjaliraghav654.png?size=96" width="56" alt="Anjali Raghav" /><br/><sub><b>Anjali Raghav</b></sub></a><br/><sub>RevGenIQ</sub></td>
-    <td align="center" width="110"><a href="https://github.com/aryangoswami42531-prog"><img src="https://github.com/aryangoswami42531-prog.png?size=96" width="56" alt="Aryan Goswami" /><br/><sub><b>Aryan Goswami</b></sub></a><br/><sub>RevGenIQ</sub></td>
-    <td align="center" width="110"><a href="https://github.com/priya-172"><img src="https://github.com/priya-172.png?size=96" width="56" alt="Priya Pramanick" /><br/><sub><b>Priya Pramanick</b></sub></a><br/><sub>LaCleoOmnia</sub></td>
-  </tr>
-</table>
-
----
-
 ## ⭐ Featured Projects
 
 | Project | What it is | Live |
