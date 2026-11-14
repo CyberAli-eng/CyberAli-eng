@@ -22,13 +22,6 @@
   <a href="https://www.instagram.com/ali_k_b_sabir"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 </p>
 
-<!-- ORGANIZATIONS -->
-<p align="center">
-  <a href="https://revgeniq.co.in"><img src="assets/badges/revgeniq.svg" alt="RevGenIQ" /></a>
-  <a href="https://lacleodigital.com"><img src="assets/badges/lacleo-digital.svg" alt="LaCleo Digital" /></a>
-  <a href="https://github.com/aircune"><img src="assets/badges/aircune.svg" alt="Aircune" /></a>
-  <a href="https://www.gowigro.com"><img src="assets/badges/gowigro.svg" alt="Gowigro" /></a>
-</p>
 
 ---
 
